@@ -1,0 +1,6 @@
+devel_space: /home/lms/RoboConnectApp/devel
+install: false
+install_space: /home/lms/RoboConnectApp/install
+profile: default
+source_space: /home/lms/RoboConnectApp/src
+workspace: /home/lms/RoboConnectApp
