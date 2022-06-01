@@ -1,0 +1,5 @@
+Symlinking /home/lms/RoboConnectApp/devel/lib/libkuka_hardware_interface.so
+Symlinking /home/lms/RoboConnectApp/devel/lib/kuka_rsi_hw_interface/kuka_hardware_interface_node
+Symlinking /home/lms/RoboConnectApp/devel/lib/pkgconfig/kuka_rsi_hw_interface.pc
+Symlinking /home/lms/RoboConnectApp/devel/share/kuka_rsi_hw_interface/cmake/kuka_rsi_hw_interfaceConfig.cmake
+Symlinking /home/lms/RoboConnectApp/devel/share/kuka_rsi_hw_interface/cmake/kuka_rsi_hw_interfaceConfig-version.cmake

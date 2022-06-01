@@ -1,0 +1,3 @@
+Symlinking /home/lms/RoboConnectApp/devel/lib/pkgconfig/kuka_kr3_support.pc
+Symlinking /home/lms/RoboConnectApp/devel/share/kuka_kr3_support/cmake/kuka_kr3_supportConfig-version.cmake
+Symlinking /home/lms/RoboConnectApp/devel/share/kuka_kr3_support/cmake/kuka_kr3_supportConfig.cmake

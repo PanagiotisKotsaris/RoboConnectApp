@@ -1,0 +1,1 @@
+/home/lms/RoboConnectApp/devel/.private/kuka_resources/lib/pkgconfig/kuka_resources.pc

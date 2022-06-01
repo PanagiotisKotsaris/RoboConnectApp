@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lms/RoboConnectApp/devel/.private/kuka_rsi_simulator/setup.sh

@@ -1,0 +1,3 @@
+Symlinking /home/lms/RoboConnectApp/devel/lib/pkgconfig/kuka_resources.pc
+Symlinking /home/lms/RoboConnectApp/devel/share/kuka_resources/cmake/kuka_resourcesConfig-version.cmake
+Symlinking /home/lms/RoboConnectApp/devel/share/kuka_resources/cmake/kuka_resourcesConfig.cmake

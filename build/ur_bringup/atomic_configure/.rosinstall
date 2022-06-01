@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lms/RoboConnectApp/devel/.private/ur_bringup/setup.sh
