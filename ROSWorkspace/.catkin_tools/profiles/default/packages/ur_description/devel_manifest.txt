@@ -1,0 +1,5 @@
+universal_robot/ur_description
+/home/lms/RoboConnectApp/devel/.private/ur_description/cmake.lock /home/lms/RoboConnectApp/devel/./cmake.lock
+/home/lms/RoboConnectApp/devel/.private/ur_description/lib/pkgconfig/ur_description.pc /home/lms/RoboConnectApp/devel/lib/pkgconfig/ur_description.pc
+/home/lms/RoboConnectApp/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake /home/lms/RoboConnectApp/devel/share/ur_description/cmake/ur_descriptionConfig-version.cmake
+/home/lms/RoboConnectApp/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake /home/lms/RoboConnectApp/devel/share/ur_description/cmake/ur_descriptionConfig.cmake

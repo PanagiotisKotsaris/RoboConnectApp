@@ -1,0 +1,1 @@
+/home/lms/RoboConnectApp/devel/.private/kuka_kr10_support/lib/pkgconfig/kuka_kr10_support.pc

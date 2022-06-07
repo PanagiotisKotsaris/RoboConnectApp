@@ -1,5 +1,0 @@
-kuka_experimental/kuka_kr3_support
-/home/lms/RoboConnectApp/devel/.private/kuka_kr3_support/cmake.lock /home/lms/RoboConnectApp/devel/./cmake.lock
-/home/lms/RoboConnectApp/devel/.private/kuka_kr3_support/lib/pkgconfig/kuka_kr3_support.pc /home/lms/RoboConnectApp/devel/lib/pkgconfig/kuka_kr3_support.pc
-/home/lms/RoboConnectApp/devel/.private/kuka_kr3_support/share/kuka_kr3_support/cmake/kuka_kr3_supportConfig-version.cmake /home/lms/RoboConnectApp/devel/share/kuka_kr3_support/cmake/kuka_kr3_supportConfig-version.cmake
-/home/lms/RoboConnectApp/devel/.private/kuka_kr3_support/share/kuka_kr3_support/cmake/kuka_kr3_supportConfig.cmake /home/lms/RoboConnectApp/devel/share/kuka_kr3_support/cmake/kuka_kr3_supportConfig.cmake

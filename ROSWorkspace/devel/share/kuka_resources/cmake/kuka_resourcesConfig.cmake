@@ -1,0 +1,1 @@
+/home/lms/RoboConnectApp/devel/.private/kuka_resources/share/kuka_resources/cmake/kuka_resourcesConfig.cmake

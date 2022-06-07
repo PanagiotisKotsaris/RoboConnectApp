@@ -1,0 +1,1 @@
+/home/lms/RoboConnectApp/devel/.private/ur_msgs/share/gennodejs/ros/ur_msgs/srv/_index.js

@@ -1,1 +1,0 @@
-/home/lms/RoboConnectApp/devel/.private/kuka_kr6_support/share/kuka_kr6_support/cmake/kuka_kr6_supportConfig-version.cmake

@@ -1,7 +1,0 @@
-kuka_experimental/kuka_rsi_hw_interface
-/home/lms/RoboConnectApp/devel/.private/kuka_rsi_hw_interface/cmake.lock /home/lms/RoboConnectApp/devel/./cmake.lock
-/home/lms/RoboConnectApp/devel/.private/kuka_rsi_hw_interface/lib/libkuka_hardware_interface.so /home/lms/RoboConnectApp/devel/lib/libkuka_hardware_interface.so
-/home/lms/RoboConnectApp/devel/.private/kuka_rsi_hw_interface/lib/kuka_rsi_hw_interface/kuka_hardware_interface_node /home/lms/RoboConnectApp/devel/lib/kuka_rsi_hw_interface/kuka_hardware_interface_node
-/home/lms/RoboConnectApp/devel/.private/kuka_rsi_hw_interface/lib/pkgconfig/kuka_rsi_hw_interface.pc /home/lms/RoboConnectApp/devel/lib/pkgconfig/kuka_rsi_hw_interface.pc
-/home/lms/RoboConnectApp/devel/.private/kuka_rsi_hw_interface/share/kuka_rsi_hw_interface/cmake/kuka_rsi_hw_interfaceConfig.cmake /home/lms/RoboConnectApp/devel/share/kuka_rsi_hw_interface/cmake/kuka_rsi_hw_interfaceConfig.cmake
-/home/lms/RoboConnectApp/devel/.private/kuka_rsi_hw_interface/share/kuka_rsi_hw_interface/cmake/kuka_rsi_hw_interfaceConfig-version.cmake /home/lms/RoboConnectApp/devel/share/kuka_rsi_hw_interface/cmake/kuka_rsi_hw_interfaceConfig-version.cmake

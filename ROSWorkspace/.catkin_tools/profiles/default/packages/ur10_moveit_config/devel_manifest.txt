@@ -1,0 +1,5 @@
+universal_robot/ur10_moveit_config
+/home/lms/RoboConnectApp/devel/.private/ur10_moveit_config/cmake.lock /home/lms/RoboConnectApp/devel/./cmake.lock
+/home/lms/RoboConnectApp/devel/.private/ur10_moveit_config/lib/pkgconfig/ur10_moveit_config.pc /home/lms/RoboConnectApp/devel/lib/pkgconfig/ur10_moveit_config.pc
+/home/lms/RoboConnectApp/devel/.private/ur10_moveit_config/share/ur10_moveit_config/cmake/ur10_moveit_configConfig-version.cmake /home/lms/RoboConnectApp/devel/share/ur10_moveit_config/cmake/ur10_moveit_configConfig-version.cmake
+/home/lms/RoboConnectApp/devel/.private/ur10_moveit_config/share/ur10_moveit_config/cmake/ur10_moveit_configConfig.cmake /home/lms/RoboConnectApp/devel/share/ur10_moveit_config/cmake/ur10_moveit_configConfig.cmake

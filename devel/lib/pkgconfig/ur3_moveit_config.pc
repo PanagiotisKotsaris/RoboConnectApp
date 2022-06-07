@@ -1,1 +1,0 @@
-/home/lms/RoboConnectApp/devel/.private/ur3_moveit_config/lib/pkgconfig/ur3_moveit_config.pc

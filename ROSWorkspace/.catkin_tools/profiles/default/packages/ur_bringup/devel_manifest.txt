@@ -1,0 +1,5 @@
+universal_robot/ur_bringup
+/home/lms/RoboConnectApp/devel/.private/ur_bringup/cmake.lock /home/lms/RoboConnectApp/devel/./cmake.lock
+/home/lms/RoboConnectApp/devel/.private/ur_bringup/lib/pkgconfig/ur_bringup.pc /home/lms/RoboConnectApp/devel/lib/pkgconfig/ur_bringup.pc
+/home/lms/RoboConnectApp/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake /home/lms/RoboConnectApp/devel/share/ur_bringup/cmake/ur_bringupConfig.cmake
+/home/lms/RoboConnectApp/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake /home/lms/RoboConnectApp/devel/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
